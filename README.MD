@@ -73,7 +73,7 @@ This project is a rewritten, console-only derivative of Mem Reduct.
 
 Original Project:
   Mem Reduct
-  Copyright (c) 2011–2024 Henry++
+  Copyright (c) 2011–2025 Henry++
   https://github.com/henrypp/memreduct
 
 Modifications:
@@ -87,3 +87,4 @@ License:
   in accordance with the license of the original work.
 
 This project is not affiliated with or endorsed by the original author.
+
