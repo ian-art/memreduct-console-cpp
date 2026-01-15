@@ -16,7 +16,8 @@
  * License:
  *   GNU General Public License v3.0 (GPL-3.0)
  *
- * ALL CREDIT BELONGS TO henrypp
+ * Original work by Henry++.
+ * Modifications and rewrite by the maintainer of this repository.
  */
 
 #include <windows.h>
